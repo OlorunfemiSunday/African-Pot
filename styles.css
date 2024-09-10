@@ -13,6 +13,7 @@ html {
   min-height: 20vh;
   font-size: 1.665rem;
   background-color: #ffffff;
+  width: 100%;
 }
 .logo {
   position: absolute;
@@ -147,6 +148,7 @@ html {
   background-size: cover;
   background-position: 100%;
   background-attachment: fixed;
+  width: 100%;
 }
 .pesin {
   position: absolute;
@@ -372,6 +374,7 @@ h2.img12 {
   color: rgb(255, 217, 0);
 }
 .section4 {
+  width: 100%;
   position: relative;
   min-height: 160vh;
   background-color: #00000000;
@@ -457,6 +460,7 @@ h2.img12 {
   background-size: cover;
   background-position: 100%;
   background-attachment: fixed;
+  width: 100%;
 }
 
 .content3 {
