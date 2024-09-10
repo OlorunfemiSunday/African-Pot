@@ -28,7 +28,7 @@ html {
 .about {
   position: absolute;
   top: 45px;
-  left: 560px;
+  left: 500px;
 }
 .about a {
   color: #000000;
@@ -41,7 +41,7 @@ html {
 .breed {
   position: absolute;
   top: 45px;
-  left: 630px;
+  left: 580px;
 }
 .breed a {
   color: rgb(12, 87, 5);
@@ -53,7 +53,7 @@ html {
 .gallery {
   position: absolute;
   top: 45px;
-  left: 700px;
+  left: 650px;
 }
 .gallery a {
   color: rgb(12, 87, 5);
@@ -65,7 +65,7 @@ html {
 .adoption {
   position: absolute;
   top: 45px;
-  left: 800px;
+  left: 750px;
 }
 .adoption a {
   color: rgb(12, 87, 5);
@@ -77,7 +77,7 @@ html {
 .contact {
   position: absolute;
   top: 44px;
-  left: 950px;
+  left: 890px;
 }
 .contact a {
   color: rgb(12, 87, 5);
@@ -89,7 +89,7 @@ html {
 .signin {
   position: absolute;
   top: 42px;
-  left: 1140px;
+  left: 1050px;
 }
 .signin button {
   width: 5.5vw;
@@ -108,7 +108,7 @@ html {
 .signup {
   position: absolute;
   top: 42px;
-  left: 1225px;
+  left: 1135px;
 }
 .signup button {
   width: 5.5vw;
@@ -362,7 +362,7 @@ h2.img12 {
   left: 190px;
 }
 .bring {
-  top: 1570px;
+  top: 1470px;
   left: 550px;
 }
 .bring:hover {
@@ -543,7 +543,7 @@ h2.img12 {
   outline: none;
 }
 .sendus {
-  top: 450px;
+  top: 420px;
   left: 200px;
 }
 .sendus:hover {
