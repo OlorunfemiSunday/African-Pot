@@ -89,7 +89,7 @@ html {
 .signin {
   position: absolute;
   top: 42px;
-  left: 1180px;
+  left: 1140px;
 }
 .signin button {
   width: 5.5vw;
@@ -108,7 +108,7 @@ html {
 .signup {
   position: absolute;
   top: 42px;
-  left: 1265px;
+  left: 1225px;
 }
 .signup button {
   width: 5.5vw;
@@ -155,7 +155,7 @@ html {
   color: white;
   font-size: 6.5rem;
   padding: 30px;
-  width: 30vw;
+  width: 40vw;
   line-height: 80px;
   font-weight: 800;
   top: 100px;
