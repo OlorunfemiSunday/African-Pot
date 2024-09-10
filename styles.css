@@ -89,7 +89,11 @@ html {
 .signin {
   position: absolute;
   top: 42px;
+<<<<<<< HEAD
   left: 1140px;
+=======
+  left: 1120px;
+>>>>>>> d7506becb55777351305906fde1bda99b27cb048
 }
 .signin button {
   width: 5.5vw;
@@ -153,9 +157,13 @@ html {
 .pesin {
   position: absolute;
   color: white;
-  font-size: 6.5rem;
+  font-size: 6.1rem;
   padding: 30px;
+<<<<<<< HEAD
   width: 40vw;
+=======
+  width: 50vw;
+>>>>>>> d7506becb55777351305906fde1bda99b27cb048
   line-height: 80px;
   font-weight: 800;
   top: 100px;
@@ -362,7 +370,7 @@ h2.img12 {
   left: 190px;
 }
 .bring {
-  top: 1570px;
+  top: 1470px;
   left: 550px;
 }
 .bring:hover {
